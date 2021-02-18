@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/buystaff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lifecycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memorygame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/profile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactevents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rendforloops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/will-unmount" vcs="Git" />
+  </component>
+</project>
