@@ -1,0 +1,13 @@
+body {
+  height: 100vh;
+}
+.App {
+   height: 200vh;
+   position: absolute;
+}
+.Viewport {
+  height: 50vh;
+  width: 100vw;
+  position: relative;
+  overflow-y: scroll;
+}
